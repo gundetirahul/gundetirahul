@@ -4,9 +4,7 @@
 Here is a brief intro to know me better!
 
 
-Unpacking the Data Enthusiast's Toolkit
-
-Hello! I'm a first-gen international student, charting new territories in the world of data and business. Imagine me as a Data Explorer, armed with the tools of analysis, visualization, and problem-solving. I'm on a mission to discover opportunities where these skills can create impactful narratives.
+I'm a first-gen international student, charting new territories in the world of data and business. Imagine me as a Data Explorer, armed with the tools of analysis, visualization, and problem-solving. I'm on a mission to discover opportunities where these skills can create impactful narratives.
 
 Professional Saga: Decoding Data into Stories
 
